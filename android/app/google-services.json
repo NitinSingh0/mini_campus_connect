@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169715592986",
+    "project_id": "mini-campus-connect",
+    "storage_bucket": "mini-campus-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169715592986:android:421e068a848cee4f9306a3",
+        "android_client_info": {
+          "package_name": "com.example.mini_campus_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADm4m7KeGmQ54Zpb9H_eQPX24KluYwSwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
